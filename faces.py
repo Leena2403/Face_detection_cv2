@@ -1,3 +1,5 @@
+# Code for face detection
+
 import cv2
 
 cap = cv2.VideoCapture(0)
